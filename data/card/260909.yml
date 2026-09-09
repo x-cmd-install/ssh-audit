@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.9.0"
   latestRelease: "v3.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:06:31Z
+  collectedAt: 2026-09-09T20:09:47Z
 timeline:
   created: 2017-09-19
   lastCommit: 2026-07-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-04
   lastPrerelease: 
 popularity:
-  star: 4300
+  star: 4298
   watcher: 44
   fork: 226
   release: 14
@@ -87,7 +87,7 @@ total:
   commit: 723
 ---
 path: /home/runner/.x-repo/github.com/jtesta/ssh-audit
-collectedAt: 2026-09-09T06:06:33Z
+collectedAt: 2026-09-09T20:09:48Z
 loc:
   Python:
     code: 8497
