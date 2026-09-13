@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3841,
       "digest": "sha256:9a38a116191e7f1f2fbc41fa4f55d6c1294dbc2e0cd0b40b36090978003aefd9",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-07-04T20:12:12Z",
       "updated_at": "2026-07-04T20:12:12Z",
       "browser_download_url": "https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/jtesta_2020-2025.asc"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 681,
       "digest": "sha256:0709528d8f670d4aeede914b4f01d9ec8954abcb7f53f90fa20ee51abf0f0b0e",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-07-04T20:12:12Z",
       "updated_at": "2026-07-04T20:12:12Z",
       "browser_download_url": "https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/jtesta_2026-2029.asc"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9711069,
       "digest": "sha256:8fbacc731e8e3dc850204e8eefa909baed219bc3f90b83905c8421ca3ad25177",
-      "download_count": 551,
+      "download_count": 557,
       "created_at": "2026-07-04T21:32:23Z",
       "updated_at": "2026-07-04T21:32:24Z",
       "browser_download_url": "https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/ssh-audit.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 182593,
       "digest": "sha256:618ec29801c3abefcef8bb8177f918dcba6b3542f0803ce510cd13bfcd13815d",
-      "download_count": 368,
+      "download_count": 373,
       "created_at": "2026-07-04T21:35:55Z",
       "updated_at": "2026-07-04T21:35:55Z",
       "browser_download_url": "https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/v3.9.0.tar.gz"
