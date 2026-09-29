@@ -31,8 +31,8 @@ Overall score: **4.2 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,311 · **Forks**: 229 · **Open issues**: 282 · **Contributors**: 33
+- **Stars**: 4,313 · **Forks**: 229 · **Open issues**: 282 · **Contributors**: 33
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-06-30 | 1 | 0 | 1 | 1 | 9 | 3 |
-| last180d | 2026-04-01 | 1 | 1 | 1 | 9 | 13 | 23 |
-| 360d | 2025-10-03 | 1 | 1 | 1 | 10 | 16 | 23 |
-| last720d | 2024-10-08 | 2 | 4 | 1 | 29 | 26 | 54 |
+| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-07-01 | 1 | 0 | 1 | 1 | 9 | 3 |
+| last180d | 2026-04-02 | 1 | 1 | 1 | 9 | 13 | 23 |
+| 360d | 2025-10-04 | 1 | 1 | 1 | 10 | 16 | 23 |
+| last720d | 2024-10-09 | 2 | 4 | 1 | 29 | 26 | 54 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:41:03Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:55:50Z._
