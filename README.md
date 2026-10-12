@@ -14,11 +14,11 @@ x install ssh-audit
 
 ## Code insight
 
-Total: **14,598** lines of code across **87** files in the top 5 languages.
+Total: **14,603** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 8,497 | 657 | 1,649 | 49 |
+| Python | 8,501 | 658 | 1,650 | 49 |
 | Json | 5,077 | 0 | 0 | 31 |
 | Sh | 685 | 260 | 235 | 5 |
 | Batch | 121 | 1 | 9 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.9.0` (2026-07-04)
-- **Last commit**: 2026-07-09
+- **Last commit**: 2026-10-11
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 4,319 · **Forks**: 233 · **Open issues**: 283 · **Contributors**: 33
+- **Stars**: 4,319 · **Forks**: 233 · **Open issues**: 283 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 52 · **Open PRs**: 5 · **Closed issues**: 244 · **Open issues**: 39 · **Commits**: 723
+- **Releases**: 14 · **Merged PRs**: 53 · **Open PRs**: 4 · **Closed issues**: 244 · **Open issues**: 39 · **Commits**: 725
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 3 | 0 | 4 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 4 | 0 | 6 | 0 |
-| last180d | 2026-04-14 | 1 | 1 | 4 | 9 | 14 | 23 |
-| 360d | 2025-10-16 | 1 | 1 | 4 | 10 | 17 | 23 |
-| last720d | 2024-10-21 | 1 | 3 | 4 | 28 | 27 | 45 |
+| 30d | 2026-09-12 | 0 | 0 | 3 | 0 | 2 | 2 |
+| last60d | 2026-08-13 | 0 | 0 | 3 | 0 | 3 | 2 |
+| 90d | 2026-07-14 | 0 | 1 | 3 | 0 | 6 | 2 |
+| last180d | 2026-04-15 | 1 | 2 | 3 | 9 | 14 | 25 |
+| 360d | 2025-10-17 | 1 | 2 | 3 | 10 | 17 | 25 |
+| last720d | 2024-10-22 | 1 | 4 | 3 | 28 | 27 | 47 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:55:39Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:14:58Z._
