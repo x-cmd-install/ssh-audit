@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 2 | 3 | 5 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 2 | 4 | 5 |
-| 90d | 2026-07-24 | 0 | 1 | 1 | 3 | 5 | 5 |
-| last180d | 2026-04-25 | 1 | 2 | 1 | 12 | 14 | 28 |
-| 360d | 2025-10-27 | 1 | 2 | 1 | 13 | 17 | 28 |
-| last720d | 2024-11-01 | 1 | 4 | 1 | 30 | 27 | 50 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 2 | 3 | 5 |
+| last60d | 2026-08-24 | 0 | 0 | 1 | 2 | 3 | 5 |
+| 90d | 2026-07-25 | 0 | 1 | 1 | 3 | 5 | 5 |
+| last180d | 2026-04-26 | 1 | 2 | 1 | 12 | 14 | 28 |
+| 360d | 2025-10-28 | 1 | 2 | 1 | 13 | 17 | 28 |
+| last720d | 2024-11-02 | 1 | 4 | 1 | 30 | 27 | 50 |
 
 ## Release assets
 
@@ -76,6 +76,25 @@ Lowest-scoring checks:
 | [v3.9.0.tar.gz](https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/v3.9.0.tar.gz) | 178.3 KiB | `native/unknown` |
 | [v3.9.0.tar.gz.sig](https://github.com/jtesta/ssh-audit/releases/download/v3.9.0/v3.9.0.tar.gz.sig) | 119 B | `other` |
 
+## Distribution status
+
+Reported by **105** distros on [repology.org](https://repology.org/project/ssh-audit). **22** are ✅ on the latest upstream release, **76** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.3.0` | ⚠️ outdated |
+| Debian 14 | `3.3.0` | ⚠️ outdated |
+| Debian 13 | `3.3.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.3.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.1.0` | ⚠️ outdated |
+| Arch | `3.9.0` | ✅ latest |
+| Homebrew | `3.9.0` | ✅ latest |
+| Fedora rawhide | `3.3.0` | ⚠️ outdated |
+| Nix unstable | `3.9.0` | ✅ latest |
+| Void | `3.9.0` | ✅ latest |
+| Alpine edge | `3.9.0` | ✅ latest |
+| openSUSE Tumbleweed | `3.9.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ssh-audit` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +104,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:50:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T06:02:11Z._
