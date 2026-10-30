@@ -1,3 +1,53 @@
+- repo: pardus_21
+  subrepo: main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.9.0
+  origversion: 3.9.0-1
+  status: newest
+  summary: SSH configuration auditing
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: ssh-audit
@@ -48,6 +98,18 @@
   summary: SSH server and client configuration auditing (documentation)
   maintainers:
     - michal@polanski.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.2.0
+  origversion: null
+  status: outdated
+  summary: Tool for ssh server auditing
+  maintainers:
+    - tv@krebsco.de
+    - sandro.jaeckel@gmail.com
   licenses:
     - MIT
 - repo: alpine_3_18
@@ -574,20 +636,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-1.fc40
-  status: outdated
-  summary: An SSH server & client configuration security auditing tool
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: ssh-audit
   binnames:
@@ -596,6 +644,20 @@
   version: 3.1.0
   origversion: 3.1.0-2.fc40
   status: legacy
+  summary: An SSH server & client configuration security auditing tool
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-1.fc40
+  status: outdated
   summary: An SSH server & client configuration security auditing tool
   licenses:
     - MIT
@@ -695,6 +757,18 @@
   summary: SSH server auditing
   maintainers:
     - pkubaj@freebsd.org
+  categories:
+    - security
+- repo: pkgsrc_2026_2
+  srcname: security/ssh-audit
+  binname: ssh-audit
+  visiblename: security/ssh-audit
+  version: 3.3.0
+  origversion: null
+  status: outdated
+  summary: Tool for SSH server & client configuration auditing
+  maintainers:
+    - pkgsrc-users@netbsd.org
   categories:
     - security
 - repo: gentoo
@@ -871,29 +945,6 @@
   summary: SSH configuration auditing
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.9.0
-  origversion: 3.9.0-1
-  status: newest
-  summary: SSH configuration auditing
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.2.0
-  origversion: null
-  status: outdated
-  summary: Tool for ssh server auditing
-  maintainers:
-    - tv@krebsco.de
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: ssh-audit
   visiblename: ssh-audit
@@ -1028,57 +1079,6 @@
   summary: SSH configuration auditing
   licenses:
     - MIT
-- repo: pardus_21
-  subrepo: main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: pkgsrc_2026_2
-  srcname: security/ssh-audit
-  binname: ssh-audit
-  visiblename: security/ssh-audit
-  version: 3.3.0
-  origversion: null
-  status: outdated
-  summary: Tool for SSH server & client configuration auditing
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - security
 - repo: pkgsrc_2026_3
   srcname: security/ssh-audit
   binname: ssh-audit
