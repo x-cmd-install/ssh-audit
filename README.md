@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,331 · **Forks**: 234 · **Open issues**: 286 · **Contributors**: 34
+- **Stars**: 4,331 · **Forks**: 236 · **Open issues**: 286 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 53 · **Open PRs**: 3 · **Closed issues**: 247 · **Open issues**: 39 · **Commits**: 728
+- **Releases**: 14 · **Merged PRs**: 53 · **Open PRs**: 4 · **Closed issues**: 247 · **Open issues**: 39 · **Commits**: 728
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 2 | 1 | 3 | 5 |
-| last60d | 2026-09-02 | 0 | 0 | 2 | 2 | 3 | 5 |
-| 90d | 2026-08-03 | 0 | 0 | 2 | 3 | 4 | 5 |
-| last180d | 2026-05-05 | 1 | 2 | 2 | 11 | 14 | 28 |
-| 360d | 2025-11-06 | 1 | 2 | 2 | 13 | 17 | 28 |
-| last720d | 2024-11-11 | 1 | 4 | 2 | 30 | 27 | 50 |
+| 30d | 2026-10-03 | 0 | 0 | 3 | 1 | 3 | 5 |
+| last60d | 2026-09-03 | 0 | 0 | 3 | 2 | 3 | 5 |
+| 90d | 2026-08-04 | 0 | 0 | 3 | 3 | 4 | 5 |
+| last180d | 2026-05-06 | 1 | 1 | 3 | 11 | 14 | 28 |
+| 360d | 2025-11-07 | 1 | 2 | 3 | 13 | 17 | 28 |
+| last720d | 2024-11-12 | 1 | 4 | 3 | 30 | 27 | 50 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **105** distros on [repology.org](https://repology.org/project/ssh-audit). **22** are ✅ on the latest upstream release, **76** are ⚠️ on an older version.
+Reported by **105** distros on [repology.org](https://repology.org/project/ssh-audit). **20** are ✅ on the latest upstream release, **78** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -104,4 +104,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:13:03Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:16:33Z._
