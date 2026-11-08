@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.9.0` (2026-07-04)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-11-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 4,341 · **Forks**: 235 · **Open issues**: 286 · **Contributors**: 34
+- **Stars**: 4,342 · **Forks**: 235 · **Open issues**: 286 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 53 · **Open PRs**: 6 · **Closed issues**: 247 · **Open issues**: 39 · **Commits**: 728
+- **Releases**: 14 · **Merged PRs**: 54 · **Open PRs**: 4 · **Closed issues**: 248 · **Open issues**: 38 · **Commits**: 731
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 5 | 0 | 3 | 5 |
-| last60d | 2026-09-08 | 0 | 0 | 5 | 2 | 3 | 5 |
-| 90d | 2026-08-09 | 0 | 0 | 5 | 3 | 4 | 5 |
-| last180d | 2026-05-11 | 1 | 1 | 5 | 11 | 14 | 28 |
-| 360d | 2025-11-12 | 1 | 2 | 5 | 13 | 17 | 28 |
-| last720d | 2024-11-17 | 1 | 4 | 5 | 30 | 27 | 50 |
+| 30d | 2026-10-09 | 0 | 1 | 3 | 1 | 2 | 6 |
+| last60d | 2026-09-09 | 0 | 1 | 3 | 3 | 2 | 8 |
+| 90d | 2026-08-10 | 0 | 1 | 3 | 4 | 3 | 8 |
+| last180d | 2026-05-12 | 1 | 2 | 3 | 12 | 13 | 31 |
+| 360d | 2025-11-13 | 1 | 3 | 3 | 13 | 16 | 31 |
+| last720d | 2024-11-18 | 1 | 5 | 3 | 31 | 26 | 53 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:08:27Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:21:07Z._
