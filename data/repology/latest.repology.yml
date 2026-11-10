@@ -1,276 +1,5 @@
-- repo: pardus_21
-  subrepo: main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: debian_11
-  subrepo: bullseye/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: debian_12
-  subrepo: bookworm/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.5.0
-  origversion: 2.5.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - admin
-- repo: debian_14
-  subrepo: forky/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 1.7.0
-  origversion: 1.7.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-- repo: deepin_25
-  subrepo: main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: ubuntu_18_04
-  subrepo: bionic/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 1.7.0
-  origversion: 1.7.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_20_04
-  subrepo: focal/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 1.7.0
-  origversion: 1.7.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.5.0
-  origversion: 2.5.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_24_04
-  subrepo: noble/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.1.0
-  origversion: 3.1.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2build1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_26_10
-  subrepo: stonking/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2build1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04
-  subrepo: tenacious/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2build1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.9.0
-  origversion: 3.9.0_1
-  status: newest
-  summary: SSH server & client auditing
-  maintainers:
-    - abenson+void@gmail.com
-  licenses:
-    - MIT
-- repo: parrot
-  subrepo: parrot/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 2.2.0
-  origversion: 2.2.0-1
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
 - repo: raspbian_stable
   subrepo: main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
   srcname: ssh-audit
   binnames:
     - ssh-audit
@@ -295,208 +24,237 @@
     - czchen@debian.org
   categories:
     - misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
+- repo: homebrew
   srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: alpine_3_17
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-doc
-  visiblename: ssh-audit-doc
-  version: 2.5.0
-  origversion: 2.5.0-r1
-  status: outdated
-  summary: SSH server and client configuration auditing (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_17
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 2.5.0
-  origversion: 2.5.0-r1
-  status: outdated
-  summary: SSH server and client configuration auditing
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 2.9.0
-  origversion: 2.9.0-r0
-  status: outdated
-  summary: SSH server and client configuration auditing
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-doc
-  visiblename: ssh-audit-doc
-  version: 2.9.0
-  origversion: 2.9.0-r0
-  status: outdated
-  summary: SSH server and client configuration auditing (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-pyc
-  visiblename: ssh-audit-pyc
-  version: 2.9.0
-  origversion: 2.9.0-r0
-  status: outdated
-  summary: Precompiled Python bytecode for ssh-audit
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.1.0
-  origversion: 3.1.0-r0
-  status: outdated
-  summary: SSH server and client configuration auditing
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: ubuntu_25_10
-  subrepo: questing/universe
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
-  maintainers:
-    - czchen@debian.org
-  categories:
-    - universe/misc
-- repo: alpine_3_19
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-doc
-  visiblename: ssh-audit-doc
-  version: 3.1.0
-  origversion: 3.1.0-r0
-  status: outdated
-  summary: SSH server and client configuration auditing (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-pyc
-  visiblename: ssh-audit-pyc
-  version: 3.1.0
-  origversion: 3.1.0-r0
-  status: outdated
-  summary: Precompiled Python bytecode for ssh-audit
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.1.0
-  origversion: 3.1.0-r1
-  status: outdated
-  summary: SSH server and client configuration auditing
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-doc
-  visiblename: ssh-audit-doc
-  version: 3.1.0
-  origversion: 3.1.0-r1
-  status: outdated
-  summary: SSH server and client configuration auditing (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-pyc
-  visiblename: ssh-audit-pyc
-  version: 3.1.0
-  origversion: 3.1.0-r1
-  status: outdated
-  summary: Precompiled Python bytecode for ssh-audit
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-r0
-  status: outdated
-  summary: SSH server and client configuration auditing
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: ssh-audit
-  binname: ssh-audit-doc
-  visiblename: ssh-audit-doc
-  version: 3.3.0
-  origversion: 3.3.0-r0
-  status: outdated
-  summary: SSH server and client configuration auditing (documentation)
-  maintainers:
-    - michal@polanski.me
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: ssh-audit
   visiblename: ssh-audit
   version: 3.9.0
   origversion: null
   status: newest
+  summary: SSH server & client auditing
+- repo: homebrew
+  srcname: ssh-audit
+  visiblename: ssh-audit
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: SSH server & client auditing
+- repo: kali_rolling
+  subrepo: main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: alpine_3_17
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 2.5.0
+  origversion: 2.5.0-r1
+  status: outdated
+  summary: SSH server and client configuration auditing
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: main
+  srcname: ssh-audit
+  binname: ssh-audit-pycache
+  visiblename: ssh-audit-pycache
+  version: 3.9.0
+  origversion: 3.9.0-r0
+  status: newest
+  summary: SSH server & client configuration auditor (Python bytecode)
+  licenses:
+    - MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-doc
+  visiblename: ssh-audit-doc
+  version: 2.5.0
+  origversion: 2.5.0-r1
+  status: outdated
+  summary: SSH server and client configuration auditing (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 2.9.0
+  origversion: 2.9.0-r0
+  status: outdated
+  summary: SSH server and client configuration auditing
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-doc
+  visiblename: ssh-audit-doc
+  version: 2.9.0
+  origversion: 2.9.0-r0
+  status: outdated
+  summary: SSH server and client configuration auditing (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-pyc
+  visiblename: ssh-audit-pyc
+  version: 2.9.0
+  origversion: 2.9.0-r0
+  status: outdated
+  summary: Precompiled Python bytecode for ssh-audit
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.1.0
+  origversion: 3.1.0-r0
+  status: outdated
+  summary: SSH server and client configuration auditing
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-doc
+  visiblename: ssh-audit-doc
+  version: 3.1.0
+  origversion: 3.1.0-r0
+  status: outdated
+  summary: SSH server and client configuration auditing (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-pyc
+  visiblename: ssh-audit-pyc
+  version: 3.1.0
+  origversion: 3.1.0-r0
+  status: outdated
+  summary: Precompiled Python bytecode for ssh-audit
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.1.0
+  origversion: 3.1.0-r1
+  status: outdated
+  summary: SSH server and client configuration auditing
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-doc
+  visiblename: ssh-audit-doc
+  version: 3.1.0
+  origversion: 3.1.0-r1
+  status: outdated
+  summary: SSH server and client configuration auditing (documentation)
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-pyc
+  visiblename: ssh-audit-pyc
+  version: 3.1.0
+  origversion: 3.1.0-r1
+  status: outdated
+  summary: Precompiled Python bytecode for ssh-audit
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-r0
+  status: outdated
+  summary: SSH server and client configuration auditing
+  maintainers:
+    - michal@polanski.me
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: ssh-audit
+  binname: ssh-audit-doc
+  visiblename: ssh-audit-doc
+  version: 3.3.0
+  origversion: 3.3.0-r0
+  status: outdated
+  summary: SSH server and client configuration auditing (documentation)
+  maintainers:
+    - michal@polanski.me
   licenses:
     - MIT
 - repo: alpine_3_21
@@ -711,9 +469,9 @@
   srcname: ssh-audit
   binname: ssh-audit
   visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-r2
-  status: outdated
+  version: 3.9.0
+  origversion: 3.9.0-r0
+  status: newest
   summary: SSH server & client configuration auditor
   licenses:
     - MIT
@@ -722,9 +480,9 @@
   srcname: ssh-audit
   binname: ssh-audit-doc
   visiblename: ssh-audit-doc
-  version: 3.3.0
-  origversion: 3.3.0-r2
-  status: outdated
+  version: 3.9.0
+  origversion: 3.9.0-r0
+  status: newest
   summary: SSH server & client configuration auditor (documentation)
   licenses:
     - MIT
@@ -733,23 +491,126 @@
   srcname: ssh-audit
   binname: ssh-audit-man
   visiblename: ssh-audit-man
-  version: 3.3.0
-  origversion: 3.3.0-r2
-  status: outdated
+  version: 3.9.0
+  origversion: 3.9.0-r0
+  status: newest
   summary: SSH server & client configuration auditor (manual pages)
   licenses:
     - MIT
-- repo: chimera
-  subrepo: main
+- repo: nix_stable_25_11
   srcname: ssh-audit
-  binname: ssh-audit-pycache
-  visiblename: ssh-audit-pycache
+  visiblename: ssh-audit
   version: 3.3.0
-  origversion: 3.3.0-r2
+  origversion: null
   status: outdated
-  summary: SSH server & client configuration auditor (Python bytecode)
+  summary: Tool for ssh server auditing
+  maintainers:
+    - tv@krebsco.de
+    - sandro.jaeckel@gmail.com
   licenses:
     - MIT
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 2.5.0
+  origversion: 2.5.0-1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 1.7.0
+  origversion: 1.7.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+- repo: deepin_25
+  subrepo: main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
 - repo: epel_9
   srcname: ssh-audit
   binnames:
@@ -791,20 +652,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-1.fc40
-  status: outdated
-  summary: An SSH server & client configuration security auditing tool
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: ssh-audit
   binnames:
@@ -813,6 +660,20 @@
   version: 3.1.0
   origversion: 3.1.0-2.fc40
   status: legacy
+  summary: An SSH server & client configuration security auditing tool
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-1.fc40
+  status: outdated
   summary: An SSH server & client configuration security auditing tool
   licenses:
     - MIT
@@ -832,6 +693,19 @@
     - MIT
   categories:
     - Unspecified
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - admin
 - repo: fedora_41
   subrepo: updates
   srcname: ssh-audit
@@ -902,20 +776,6 @@
     - MIT
   categories:
     - Unspecified
-- repo: mageia_10
-  subrepo: core/release
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-3.mga10
-  status: outdated
-  summary: SSH server auditing
-  licenses:
-    - MIT
-  categories:
-    - Security
 - repo: freebsd
   srcname: security/py-ssh-audit
   binname: py312-ssh-audit
@@ -956,33 +816,16 @@
     - MIT
   categories:
     - net-analyzer
-- repo: homebrew
+- repo: pypi
   srcname: ssh-audit
+  binname: ssh-audit
   visiblename: ssh-audit
   version: 3.9.0
   origversion: null
   status: newest
-  summary: SSH server & client auditing
-- repo: homebrew
-  srcname: ssh-audit
-  visiblename: ssh-audit
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: SSH server & client auditing
-- repo: kali_rolling
-  subrepo: main
-  srcname: ssh-audit
-  binnames:
-    - ssh-audit
-  visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
-  status: outdated
+  summary: An SSH server & client configuration security auditing tool
   maintainers:
-    - czchen@debian.org
-  categories:
-    - misc
+    - jtesta@positronsecurity.com
 - repo: liguros_stable
   srcname: net-analyzer/ssh-audit
   visiblename: net-analyzer/ssh-audit
@@ -1023,19 +866,6 @@
     - MIT
   categories:
     - net-analyzer
-- repo: t2
-  srcname: ssh-audit
-  visiblename: ssh-audit
-  version: 3.9.0
-  origversion: null
-  status: newest
-  summary: SSH server and client configuration auditing
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - MIT
-  categories:
-    - extra/base
 - repo: liguros_develop
   srcname: net-analyzer/ssh-audit
   visiblename: net-analyzer/ssh-audit
@@ -1065,6 +895,20 @@
     - MIT
   categories:
     - security
+- repo: mageia_10
+  subrepo: core/release
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-3.mga10
+  status: outdated
+  summary: SSH server auditing
+  licenses:
+    - MIT
+  categories:
+    - Security
 - repo: mageia_cauldron
   subrepo: core/release
   srcname: ssh-audit
@@ -1148,18 +992,19 @@
     - sandro.jaeckel@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_11
+- repo: raspbian_oldstable
+  subrepo: main
   srcname: ssh-audit
+  binnames:
+    - ssh-audit
   visiblename: ssh-audit
-  version: 3.3.0
-  origversion: null
+  version: 2.5.0
+  origversion: 2.5.0-1
   status: outdated
-  summary: Tool for ssh server auditing
   maintainers:
-    - tv@krebsco.de
-    - sandro.jaeckel@gmail.com
-  licenses:
-    - MIT
+    - czchen@debian.org
+  categories:
+    - misc
 - repo: nix_stable_26_05
   srcname: ssh-audit
   visiblename: ssh-audit
@@ -1258,6 +1103,32 @@
   summary: SSH configuration auditing
   licenses:
     - MIT
+- repo: pardus_21
+  subrepo: main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 2.2.0
+  origversion: 2.2.0-1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - misc
 - repo: pkgsrc_2026_2
   srcname: security/ssh-audit
   binname: ssh-audit
@@ -1307,31 +1178,69 @@
     - czchen@debian.org
   categories:
     - admin
-- repo: pureos_landing
-  subrepo: landing/main
+- repo: pureos_byzantium
+  subrepo: byzantium/main
   srcname: ssh-audit
   binnames:
     - ssh-audit
   visiblename: ssh-audit
-  version: 3.3.0
-  origversion: 3.3.0-2
+  version: 2.2.0
+  origversion: 2.2.0-1
   status: outdated
   maintainers:
     - czchen@debian.org
   categories:
     - admin
-- repo: pypi
-  srcname: ssh-audit
+- repo: scoop
+  subrepo: main
   binname: ssh-audit
   visiblename: ssh-audit
   version: 3.9.0
   origversion: null
   status: newest
-  summary: An SSH server & client configuration security auditing tool
+  licenses:
+    - MIT
+- repo: t2
+  srcname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.9.0
+  origversion: null
+  status: newest
+  summary: SSH server and client configuration auditing
   maintainers:
-    - jtesta@positronsecurity.com
-- repo: raspbian_oldstable
-  subrepo: main
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/base
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 1.7.0
+  origversion: 1.7.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 1.7.0
+  origversion: 1.7.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
   srcname: ssh-audit
   binnames:
     - ssh-audit
@@ -1342,4 +1251,95 @@
   maintainers:
     - czchen@debian.org
   categories:
-    - misc
+    - universe/misc
+- repo: ubuntu_24_04
+  subrepo: noble/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.1.0
+  origversion: 3.1.0-1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2build1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2build1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
+  srcname: ssh-audit
+  binnames:
+    - ssh-audit
+  visiblename: ssh-audit
+  version: 3.3.0
+  origversion: 3.3.0-2build1
+  status: outdated
+  maintainers:
+    - czchen@debian.org
+  categories:
+    - universe/misc
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: ssh-audit
+  binname: ssh-audit
+  visiblename: ssh-audit
+  version: 3.9.0
+  origversion: 3.9.0_1
+  status: newest
+  summary: SSH server & client auditing
+  maintainers:
+    - abenson+void@gmail.com
+  licenses:
+    - MIT
