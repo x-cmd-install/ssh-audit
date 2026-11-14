@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,346 · **Forks**: 240 · **Open issues**: 286 · **Contributors**: 35
+- **Stars**: 4,346 · **Forks**: 241 · **Open issues**: 287 · **Contributors**: 35
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 54 · **Open PRs**: 8 · **Closed issues**: 248 · **Open issues**: 38 · **Commits**: 731
+- **Releases**: 14 · **Merged PRs**: 54 · **Open PRs**: 8 · **Closed issues**: 248 · **Open issues**: 39 · **Commits**: 731
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 1 | 7 | 1 | 2 | 6 |
-| last60d | 2026-09-14 | 0 | 1 | 7 | 3 | 2 | 8 |
-| 90d | 2026-08-15 | 0 | 1 | 7 | 3 | 3 | 8 |
-| last180d | 2026-05-17 | 1 | 2 | 7 | 12 | 13 | 31 |
-| 360d | 2025-11-18 | 1 | 3 | 7 | 13 | 16 | 31 |
-| last720d | 2024-11-23 | 1 | 5 | 7 | 31 | 26 | 51 |
+| 30d | 2026-10-15 | 0 | 1 | 7 | 1 | 3 | 6 |
+| last60d | 2026-09-15 | 0 | 1 | 7 | 3 | 3 | 8 |
+| 90d | 2026-08-16 | 0 | 1 | 7 | 3 | 4 | 8 |
+| last180d | 2026-05-18 | 1 | 2 | 7 | 12 | 14 | 31 |
+| 360d | 2025-11-19 | 1 | 3 | 7 | 13 | 17 | 31 |
+| last720d | 2024-11-24 | 1 | 4 | 7 | 31 | 27 | 51 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:10:29Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:08:42Z._
