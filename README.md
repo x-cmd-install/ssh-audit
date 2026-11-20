@@ -37,7 +37,7 @@ Total: **14,601** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,346 · **Forks**: 243 · **Open issues**: 288 · **Contributors**: 34
+- **Stars**: 4,347 · **Forks**: 243 · **Open issues**: 288 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,601** lines of code across **87** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 6 | 0 | 2 | 3 |
-| last60d | 2026-09-20 | 0 | 1 | 6 | 3 | 4 | 8 |
-| 90d | 2026-08-21 | 0 | 1 | 6 | 3 | 5 | 8 |
-| last180d | 2026-05-23 | 1 | 2 | 6 | 11 | 15 | 31 |
-| 360d | 2025-11-24 | 1 | 3 | 6 | 13 | 18 | 31 |
-| last720d | 2024-11-29 | 1 | 4 | 6 | 29 | 28 | 50 |
+| 30d | 2026-10-21 | 0 | 0 | 6 | 0 | 2 | 3 |
+| last60d | 2026-09-21 | 0 | 1 | 6 | 3 | 4 | 8 |
+| 90d | 2026-08-22 | 0 | 1 | 6 | 3 | 5 | 8 |
+| last180d | 2026-05-24 | 1 | 2 | 6 | 11 | 15 | 31 |
+| 360d | 2025-11-25 | 1 | 3 | 6 | 13 | 18 | 31 |
+| last720d | 2024-11-30 | 1 | 4 | 6 | 29 | 28 | 50 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for ssh-audit lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:58:22Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:17:29Z._
